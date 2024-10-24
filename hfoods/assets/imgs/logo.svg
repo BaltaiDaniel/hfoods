@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 150.96 141.779"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="973"
+     id="namedview38"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="3.3291247"
+     inkscape:cx="96.59121"
+     inkscape:cy="54.049682"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 38.206px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: BebasNeueBold, Bebas Neue;
+      }
+
+      .cls-2 {
+        font-size: 21.299px;
+      }
+
+      .cls-4 {
+        font-size: 7.93px;
+        font-family: Helvetica;
+        letter-spacing: 0.03em;
+      }
+    </style>
+  </defs>
+  <text
+     style="font-size:38.20600128px;font-family:BebasNeueBold, 'Bebas Neue';fill:#ffffff"
+     class="cls-1"
+     data-name="Food Hut"
+     id="Food_Hut"
+     x="82.640472"
+     y="111.963">
+    <tspan
+       id="tspan6"
+       y="111.963"
+       x="27.623474">Foods</tspan>
+  </text>
+  <text
+     style="font-size:21.29899979px;font-family:BebasNeueBold, 'Bebas Neue';fill:#ffffff"
+     class="cls-2"
+     id="THE"
+     x="53.095871"
+     y="73.458">
+    <tspan
+       id="tspan9"
+       y="73.458"
+       x="40.838875"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Arial;-inkscape-font-specification:Arial">H</tspan>
+  </text>
+  <rect
+     style="fill:#ffffff"
+     y="76.410004"
+     x="3.3243697"
+     height="3.316"
+     width="145.929"
+     class="cls-3"
+     data-name="Rectangle 3"
+     id="Rectangle_3"
+     rx="1.658"
+     ry="1.658" />
+  <rect
+     style="fill:#ffffff"
+     y="116.946"
+     x="2.5150001"
+     height="3.316"
+     width="145.929"
+     class="cls-3"
+     data-name="Rectangle 4"
+     id="Rectangle_4"
+     rx="1.658"
+     ry="1.658" />
+  <g
+     data-name="Group 52"
+     id="Group_52"
+     transform="translate(-281.9215,-293.753)">
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="m 330.157,419.04 1.055,3.244 h 3.41 l -2.76,2 1.055,3.244 -2.76,-2 -2.76,2 1.055,-3.244 -2.76,-2 h 3.41 z"
+       class="cls-3"
+       data-name="Path 10905"
+       id="Path_10905" />
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="m 343.78,419.04 1.053,3.244 h 3.41 l -2.758,2 1.053,3.244 -2.758,-2 -2.76,2 1.053,-3.244 -2.759,-2 h 3.411 z"
+       class="cls-3"
+       data-name="Path 10906"
+       id="Path_10906" />
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="m 357.4,419.04 1.055,3.244 h 3.41 l -2.76,2 1.055,3.244 -2.76,-2 -2.76,2 1.055,-3.244 -2.76,-2 h 3.41 z"
+       class="cls-3"
+       data-name="Path 10907"
+       id="Path_10907" />
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="m 371.023,419.04 1.054,3.244 h 3.412 l -2.76,2 1.054,3.244 -2.76,-2 -2.759,2 1.055,-3.244 -2.762,-2 h 3.411 z"
+       class="cls-3"
+       data-name="Path 10908"
+       id="Path_10908" />
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="m 384.645,419.04 1.055,3.244 h 3.41 l -2.76,2 1.054,3.244 -2.759,-2 -2.76,2 1.055,-3.244 -2.761,-2 h 3.411 z"
+       class="cls-3"
+       data-name="Path 10909"
+       id="Path_10909" />
+  </g>
+</svg>
